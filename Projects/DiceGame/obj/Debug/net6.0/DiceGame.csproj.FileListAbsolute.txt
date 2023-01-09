@@ -1,0 +1,15 @@
+/workspaces/Getting-Back-Into-Things/Projects/DiceGame/bin/Debug/net6.0/DiceGame
+/workspaces/Getting-Back-Into-Things/Projects/DiceGame/bin/Debug/net6.0/DiceGame.deps.json
+/workspaces/Getting-Back-Into-Things/Projects/DiceGame/bin/Debug/net6.0/DiceGame.runtimeconfig.json
+/workspaces/Getting-Back-Into-Things/Projects/DiceGame/bin/Debug/net6.0/DiceGame.dll
+/workspaces/Getting-Back-Into-Things/Projects/DiceGame/bin/Debug/net6.0/DiceGame.pdb
+/workspaces/Getting-Back-Into-Things/Projects/DiceGame/obj/Debug/net6.0/DiceGame.csproj.AssemblyReference.cache
+/workspaces/Getting-Back-Into-Things/Projects/DiceGame/obj/Debug/net6.0/DiceGame.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Getting-Back-Into-Things/Projects/DiceGame/obj/Debug/net6.0/DiceGame.AssemblyInfoInputs.cache
+/workspaces/Getting-Back-Into-Things/Projects/DiceGame/obj/Debug/net6.0/DiceGame.AssemblyInfo.cs
+/workspaces/Getting-Back-Into-Things/Projects/DiceGame/obj/Debug/net6.0/DiceGame.csproj.CoreCompileInputs.cache
+/workspaces/Getting-Back-Into-Things/Projects/DiceGame/obj/Debug/net6.0/DiceGame.dll
+/workspaces/Getting-Back-Into-Things/Projects/DiceGame/obj/Debug/net6.0/refint/DiceGame.dll
+/workspaces/Getting-Back-Into-Things/Projects/DiceGame/obj/Debug/net6.0/DiceGame.pdb
+/workspaces/Getting-Back-Into-Things/Projects/DiceGame/obj/Debug/net6.0/DiceGame.genruntimeconfig.cache
+/workspaces/Getting-Back-Into-Things/Projects/DiceGame/obj/Debug/net6.0/ref/DiceGame.dll

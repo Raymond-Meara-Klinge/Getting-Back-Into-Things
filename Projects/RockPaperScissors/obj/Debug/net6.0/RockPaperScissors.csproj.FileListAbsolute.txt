@@ -1,0 +1,15 @@
+/workspaces/Getting-Back-Into-Things/Projects/RockPaperScissors/bin/Debug/net6.0/RockPaperScissors
+/workspaces/Getting-Back-Into-Things/Projects/RockPaperScissors/bin/Debug/net6.0/RockPaperScissors.deps.json
+/workspaces/Getting-Back-Into-Things/Projects/RockPaperScissors/bin/Debug/net6.0/RockPaperScissors.runtimeconfig.json
+/workspaces/Getting-Back-Into-Things/Projects/RockPaperScissors/bin/Debug/net6.0/RockPaperScissors.dll
+/workspaces/Getting-Back-Into-Things/Projects/RockPaperScissors/bin/Debug/net6.0/RockPaperScissors.pdb
+/workspaces/Getting-Back-Into-Things/Projects/RockPaperScissors/obj/Debug/net6.0/RockPaperScissors.csproj.AssemblyReference.cache
+/workspaces/Getting-Back-Into-Things/Projects/RockPaperScissors/obj/Debug/net6.0/RockPaperScissors.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Getting-Back-Into-Things/Projects/RockPaperScissors/obj/Debug/net6.0/RockPaperScissors.AssemblyInfoInputs.cache
+/workspaces/Getting-Back-Into-Things/Projects/RockPaperScissors/obj/Debug/net6.0/RockPaperScissors.AssemblyInfo.cs
+/workspaces/Getting-Back-Into-Things/Projects/RockPaperScissors/obj/Debug/net6.0/RockPaperScissors.csproj.CoreCompileInputs.cache
+/workspaces/Getting-Back-Into-Things/Projects/RockPaperScissors/obj/Debug/net6.0/RockPaperScissors.dll
+/workspaces/Getting-Back-Into-Things/Projects/RockPaperScissors/obj/Debug/net6.0/refint/RockPaperScissors.dll
+/workspaces/Getting-Back-Into-Things/Projects/RockPaperScissors/obj/Debug/net6.0/RockPaperScissors.pdb
+/workspaces/Getting-Back-Into-Things/Projects/RockPaperScissors/obj/Debug/net6.0/RockPaperScissors.genruntimeconfig.cache
+/workspaces/Getting-Back-Into-Things/Projects/RockPaperScissors/obj/Debug/net6.0/ref/RockPaperScissors.dll
