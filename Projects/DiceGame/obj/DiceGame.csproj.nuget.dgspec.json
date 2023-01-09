@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/Getting-Back-Into-Things/Projects/DiceGame/DiceGame.csproj": {}
+    "/workspaces/getting-back-into-things-Raymond-Meara-Klinge/Projects/DiceGame/DiceGame.csproj": {}
   },
   "projects": {
-    "/workspaces/Getting-Back-Into-Things/Projects/DiceGame/DiceGame.csproj": {
+    "/workspaces/getting-back-into-things-Raymond-Meara-Klinge/Projects/DiceGame/DiceGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/Getting-Back-Into-Things/Projects/DiceGame/DiceGame.csproj",
+        "projectUniqueName": "/workspaces/getting-back-into-things-Raymond-Meara-Klinge/Projects/DiceGame/DiceGame.csproj",
         "projectName": "DiceGame",
-        "projectPath": "/workspaces/Getting-Back-Into-Things/Projects/DiceGame/DiceGame.csproj",
+        "projectPath": "/workspaces/getting-back-into-things-Raymond-Meara-Klinge/Projects/DiceGame/DiceGame.csproj",
         "packagesPath": "/home/vscode/.nuget/packages/",
-        "outputPath": "/workspaces/Getting-Back-Into-Things/Projects/DiceGame/obj/",
+        "outputPath": "/workspaces/getting-back-into-things-Raymond-Meara-Klinge/Projects/DiceGame/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/vscode/.nuget/NuGet/NuGet.Config"

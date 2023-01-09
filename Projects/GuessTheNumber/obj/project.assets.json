@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/Getting-Back-Into-Things/Projects/GuessTheNumber/GuessTheNumber.csproj",
+      "projectUniqueName": "/workspaces/getting-back-into-things-Raymond-Meara-Klinge/Projects/GuessTheNumber/GuessTheNumber.csproj",
       "projectName": "GuessTheNumber",
-      "projectPath": "/workspaces/Getting-Back-Into-Things/Projects/GuessTheNumber/GuessTheNumber.csproj",
+      "projectPath": "/workspaces/getting-back-into-things-Raymond-Meara-Klinge/Projects/GuessTheNumber/GuessTheNumber.csproj",
       "packagesPath": "/home/vscode/.nuget/packages/",
-      "outputPath": "/workspaces/Getting-Back-Into-Things/Projects/GuessTheNumber/obj/",
+      "outputPath": "/workspaces/getting-back-into-things-Raymond-Meara-Klinge/Projects/GuessTheNumber/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/vscode/.nuget/NuGet/NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lKNefvdcdcP+wK+5cuMlFzbGdiKYwj2eCPunTF66K7loNUacc9rlxN939eX4/FAdvoOIzdcSgA+PZwJcaquBFQ==",
+  "dgSpecHash": "PfK2z+DmvwpcAOmJCs+r9tgyjXgJIzufiSKVMBsWFkBPhjfDFOGfZouvYjGMofy2d/p+m3a4ZukuP/wIxWImwg==",
   "success": true,
-  "projectFilePath": "/workspaces/Getting-Back-Into-Things/Projects/DiceGame/DiceGame.csproj",
+  "projectFilePath": "/workspaces/getting-back-into-things-Raymond-Meara-Klinge/Projects/DiceGame/DiceGame.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

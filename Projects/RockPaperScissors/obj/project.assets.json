@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/Getting-Back-Into-Things/Projects/RockPaperScissors/RockPaperScissors.csproj",
+      "projectUniqueName": "/workspaces/getting-back-into-things-Raymond-Meara-Klinge/Projects/RockPaperScissors/RockPaperScissors.csproj",
       "projectName": "RockPaperScissors",
-      "projectPath": "/workspaces/Getting-Back-Into-Things/Projects/RockPaperScissors/RockPaperScissors.csproj",
+      "projectPath": "/workspaces/getting-back-into-things-Raymond-Meara-Klinge/Projects/RockPaperScissors/RockPaperScissors.csproj",
       "packagesPath": "/home/vscode/.nuget/packages/",
-      "outputPath": "/workspaces/Getting-Back-Into-Things/Projects/RockPaperScissors/obj/",
+      "outputPath": "/workspaces/getting-back-into-things-Raymond-Meara-Klinge/Projects/RockPaperScissors/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/vscode/.nuget/NuGet/NuGet.Config"
