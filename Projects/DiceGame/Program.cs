@@ -60,11 +60,11 @@
             }
             else if (OppScore == YourScore)
             {
-                Console.WriteLine("YOU WIN! Against the odds you pulled through, congrats, until next time.");
+                Console.WriteLine("a draw? Curious, that's pretty rare, what are the odds?");
             }
             else
             {
-                Console.WriteLine("a draw? Curious, that's pretty rare, what are the odds?");
+                Console.WriteLine("YOU WIN! Against the odds you pulled through, congrats, until next time.");
             }
         }
     }
